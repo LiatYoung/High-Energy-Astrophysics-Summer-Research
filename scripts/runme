@@ -1,0 +1,6 @@
+from mymodule import sky_sim_better_styled
+import sys
+
+print(sky_sim_better_styled.get_radec())
+print(sys.argv)
+sys.exit()
